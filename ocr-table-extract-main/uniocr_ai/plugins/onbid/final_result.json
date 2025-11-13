@@ -1,0 +1,1161 @@
+{
+  "oid": "test0",
+  "doc_id": "2025/09/22/13/test0",
+  "origin_pdf_path": "/mnt/d/OCR/onbid/ocr-table-extract/data/p2202408091A010010012024.pdf",
+  "image_paths": [
+    {
+      "id": "5ee6392f-71ed-4885-a630-1c6f13118f0c",
+      "path": "/mnt/d/OCR/onbid/upload_data/p2202408091A010010012024_0003_0.png"
+    },
+    {
+      "id": "595a0022-ade4-4899-9e62-21072cacf651",
+      "path": "/mnt/d/OCR/onbid/upload_data/p2202408091A010010012024_0004_0.png"
+    },
+    {
+      "id": "ce37706f-9646-45ef-afbb-3af7e49b71ab",
+      "path": "/mnt/d/OCR/onbid/upload_data/p2202408091A010010012024_0004_1.png"
+    }
+  ],
+  "appraisal_agency": {
+    "name": {
+      "id": "d484e298-2cb6-4f5b-9edd-d0f6ec3465cd",
+      "text": "감정평가법인공감(주)",
+      "page_bbox": [
+        {
+          "page_num": 1,
+          "bbox": [
+            97.57,
+            140.15,
+            511.22,
+            168.37
+          ]
+        }
+      ]
+    },
+    "branch": {
+      "id": "612798b3-4293-4002-8b95-220350de85cf",
+      "text": "대전세종충남지사",
+      "page_bbox": [
+        {
+          "page_num": 1,
+          "bbox": [
+            200.51,
+            71.83,
+            288.47,
+            85.14
+          ]
+        }
+      ]
+    }
+  },
+  "appraiser_name": {
+    "id": "73c35658-5fa9-445a-9dda-29938fdefe0a",
+    "text": "이정재",
+    "page_bbox": [
+      {
+        "page_num": 2,
+        "bbox": [
+          152.3,
+          616.0,
+          195.86,
+          628.98
+        ]
+      }
+    ]
+  },
+  "appraisal_date": {
+    "id": "f214178d-f2af-4cc5-a3a9-68f9953d91be",
+    "text": "2024-07-23",
+    "page_bbox": [
+      {
+        "page_num": 2,
+        "bbox": [
+          313.94,
+          402.64,
+          362.88,
+          414.09
+        ]
+      }
+    ]
+  },
+  "location": [
+    {
+      "id": "5f6a846c-325c-4aa1-bb6a-ecbd8ff3a7f8",
+      "address_base": {
+        "id": "5cbb28c1-172b-47d0-bc08-904e7111e060",
+        "text": "충청남도 태안군 소원면 소근리",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "address_dong": {
+        "id": "6c4642cb-c16c-4cde-b9e9-4c7c07be36c9",
+        "text": "241-15",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              115.33,
+              637.67,
+              146.0,
+              650.0
+            ]
+          }
+        ]
+      },
+      "address_floor_room": {
+        "id": "67c01e44-8264-46ea-ac26-9f597eb4234b",
+        "text": "",
+        "page_bbox": []
+      },
+      "address_type": {
+        "id": "525d2e1e-1873-43a3-9e96-d1eeb071bcb3",
+        "text": "지번",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "price": {
+        "id": "c0522d6d-c381-4b49-9a0d-871c87dccaf7",
+        "text": "36,704,000",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              471.67,
+              636.54,
+              520.67,
+              647.46
+            ]
+          }
+        ]
+      },
+      "property_usage": {
+        "id": "7d13d21c-cbbb-4c10-89cd-b00ab99c0b3f",
+        "text": "임야",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              161.33,
+              637.67,
+              182.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "area_m2": {
+        "id": "e6d96472-f671-4349-9a61-177e7f469cd3",
+        "text": "992",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              361.33,
+              636.54,
+              377.33,
+              647.46
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ec5ab6c5-da37-4f4a-8f71-13d78cc54e30",
+      "address_base": {
+        "id": "2df170eb-a9b5-44c9-aecf-76ba6affe16d",
+        "text": "충청남도 태안군 소원면 소근리",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "address_dong": {
+        "id": "317cca7a-c74e-4e5c-b4ab-d4fd6a6e9fe8",
+        "text": "241-16",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              114.0,
+              566.39,
+              146.0,
+              578.27
+            ]
+          }
+        ]
+      },
+      "address_floor_room": {
+        "id": "da8da8bf-faa3-4118-a433-50a601c5a45f",
+        "text": "",
+        "page_bbox": []
+      },
+      "address_type": {
+        "id": "6a45577c-0c43-450f-8616-5376203c3762",
+        "text": "지번",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "price": {
+        "id": "d2df1056-1743-45b9-bf5d-7143b4b22ec3",
+        "text": "2,310,000",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              475.67,
+              566.39,
+              519.33,
+              578.27
+            ]
+          }
+        ]
+      },
+      "property_usage": {
+        "id": "b11157c4-c933-4d33-a8fa-fd3a6a60cffe",
+        "text": "임야",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              162.67,
+              566.39,
+              181.67,
+              578.27
+            ]
+          }
+        ]
+      },
+      "area_m2": {
+        "id": "d3145b3c-132e-48b7-8932-82268096b154",
+        "text": "70",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              365.0,
+              566.39,
+              376.0,
+              578.27
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "02929fdc-9c36-4882-a49f-3a5cffc558fc",
+      "address_base": {
+        "id": "a90a3158-ac37-46f3-a755-5afa653791e5",
+        "text": "충청남도 태안군 소원면 소근리",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "address_dong": {
+        "id": "c9d320d9-41e0-4af6-8b13-e7aa621f7333",
+        "text": "241-17",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              114.0,
+              467.98,
+              144.67,
+              479.36
+            ]
+          }
+        ]
+      },
+      "address_floor_room": {
+        "id": "50e645e3-91e2-4000-9074-67f5e7c28c71",
+        "text": "",
+        "page_bbox": []
+      },
+      "address_type": {
+        "id": "760729c6-ac86-4377-9fdd-e51b136f8e16",
+        "text": "지번",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "price": {
+        "id": "35ee08ec-e70a-417b-8c42-470fe2a7b51e",
+        "text": "69,440,000",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              470.33,
+              467.98,
+              518.0,
+              479.36
+            ]
+          }
+        ]
+      },
+      "property_usage": {
+        "id": "d2f37ab1-50d5-4c19-b9e8-3a79eb0a43b9",
+        "text": "임야",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              161.33,
+              467.98,
+              181.67,
+              479.36
+            ]
+          }
+        ]
+      },
+      "area_m2": {
+        "id": "3c1cfe20-5dbd-4b76-97ac-184af9be4ac5",
+        "text": "992",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              358.67,
+              467.98,
+              374.67,
+              479.36
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "19f1e576-209f-462c-b872-8572bcef683d",
+      "address_base": {
+        "id": "9dfa2da8-15e4-4bcf-bafd-f32480dba605",
+        "text": "충청남도 태안군 소원면 소근리",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "address_dong": {
+        "id": "ee414a1f-4f8c-4666-b121-3c4f5b59deee",
+        "text": "241-19",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              113.0,
+              439.39,
+              144.67,
+              451.61
+            ]
+          }
+        ]
+      },
+      "address_floor_room": {
+        "id": "27b697cc-f716-46aa-ab88-0fa75453e101",
+        "text": "",
+        "page_bbox": []
+      },
+      "address_type": {
+        "id": "d398c6e0-b028-4577-97c6-719d028ef331",
+        "text": "지번",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "price": {
+        "id": "445c3cc7-b5b8-4083-b36e-353d57791ae2",
+        "text": "36,704,000",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              470.33,
+              439.39,
+              518.0,
+              451.61
+            ]
+          }
+        ]
+      },
+      "property_usage": {
+        "id": "d8bfbda2-995d-426b-a57d-568023fd8868",
+        "text": "임야",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              160.0,
+              439.39,
+              181.67,
+              451.61
+            ]
+          }
+        ]
+      },
+      "area_m2": {
+        "id": "3d683972-08c9-4f84-b170-8559d4b46180",
+        "text": "992",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              358.67,
+              439.39,
+              374.67,
+              451.61
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "14b57334-80ff-4390-a4f1-928dc56e0a96",
+      "address_base": {
+        "id": "f230d401-d688-4d0b-a129-08d93d045bcf",
+        "text": "충청남도 태안군 소원면 소근리",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "address_dong": {
+        "id": "b5eef29d-9d78-4f12-954a-d37af7120893",
+        "text": "241-21",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              113.0,
+              410.83,
+              143.33,
+              422.17
+            ]
+          }
+        ]
+      },
+      "address_floor_room": {
+        "id": "07732499-b3ee-4a78-a92a-a40d76161821",
+        "text": "",
+        "page_bbox": []
+      },
+      "address_type": {
+        "id": "c77a756d-07b3-49b5-aaff-077d2f7c763a",
+        "text": "지번",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "price": {
+        "id": "a9fe455f-c44e-4c2f-8f23-697ce80c15ee",
+        "text": "36,704,000",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              470.33,
+              410.83,
+              518.0,
+              422.17
+            ]
+          }
+        ]
+      },
+      "property_usage": {
+        "id": "a311a8ee-d59a-4880-a20c-05ddc7516fd1",
+        "text": "임야",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              161.33,
+              410.83,
+              181.67,
+              422.17
+            ]
+          }
+        ]
+      },
+      "area_m2": {
+        "id": "cd733662-8a0d-47e6-9c51-971d125082d6",
+        "text": "992",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              358.67,
+              410.83,
+              374.67,
+              422.17
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "dfe88593-bea8-4af5-b03a-0b0a2b1fa0be",
+      "address_base": {
+        "id": "04dbb0a8-9f2d-4f62-9d94-25b299d36bc7",
+        "text": "충청남도 태안군 소원면 소근리",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "address_dong": {
+        "id": "ebed5e78-fe0e-4738-9e1a-4c182beb525c",
+        "text": "241-22",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              113.0,
+              383.31,
+              143.33,
+              394.69
+            ]
+          }
+        ]
+      },
+      "address_floor_room": {
+        "id": "56735fa8-0b6d-4f0c-84cb-350d385a518b",
+        "text": "",
+        "page_bbox": []
+      },
+      "address_type": {
+        "id": "58db0d9d-6baa-4fdf-ad8c-2c60c9db2e4e",
+        "text": "지번",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "price": {
+        "id": "e7698901-1f38-452c-a241-7399894db6a9",
+        "text": "36,704,000",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              470.33,
+              383.31,
+              518.0,
+              394.69
+            ]
+          }
+        ]
+      },
+      "property_usage": {
+        "id": "f4d35594-c4d9-4d0d-9634-98412622963c",
+        "text": "임야",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              160.0,
+              383.31,
+              180.33,
+              394.69
+            ]
+          }
+        ]
+      },
+      "area_m2": {
+        "id": "3ff7354a-4a38-4c88-a507-e975005cf290",
+        "text": "99.2",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              357.33,
+              383.31,
+              373.33,
+              394.69
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "167aa2c7-bd46-47bf-b87f-a6a4a820dbaa",
+      "address_base": {
+        "id": "a0de957d-8af0-442b-8f58-bd0a7fc26dd5",
+        "text": "충청남도 태안군 소원면 소근리",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "address_dong": {
+        "id": "9a127ec8-1fb1-4fde-a66e-ae7c85aa00b7",
+        "text": "241-23",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              113.0,
+              355.76,
+              143.33,
+              366.91
+            ]
+          }
+        ]
+      },
+      "address_floor_room": {
+        "id": "aab94523-1a33-4ae8-a17c-43712951bf5f",
+        "text": "",
+        "page_bbox": []
+      },
+      "address_type": {
+        "id": "7bca0b0e-5321-4ffe-b4db-e710d23db3d6",
+        "text": "지번",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "price": {
+        "id": "71417d7e-fcb3-4179-9d99-0269a2f4d36b",
+        "text": "20,440,000",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              470.33,
+              355.76,
+              518.0,
+              366.91
+            ]
+          }
+        ]
+      },
+      "property_usage": {
+        "id": "daf68f5e-b585-438e-8382-ee5237de9f78",
+        "text": "임야",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              160.0,
+              355.76,
+              180.33,
+              366.91
+            ]
+          }
+        ]
+      },
+      "area_m2": {
+        "id": "afafbdee-c013-4bbc-a1a7-1fa5959dcd00",
+        "text": "730",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              357.33,
+              355.76,
+              373.33,
+              366.91
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "607976c4-076e-4b49-a367-9705015166f8",
+      "address_base": {
+        "id": "cf0c483c-55ba-44c0-9418-8761310e602a",
+        "text": "충청남도 태안군 소원면 소근리",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "address_dong": {
+        "id": "0351d6c2-cc39-4247-9606-dbfdd0846153",
+        "text": "241-24",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              113.0,
+              326.67,
+              143.33,
+              338.33
+            ]
+          }
+        ]
+      },
+      "address_floor_room": {
+        "id": "eb81cfc7-6430-44d0-8408-0e91af493b26",
+        "text": "",
+        "page_bbox": []
+      },
+      "address_type": {
+        "id": "f11eafd1-a6f4-40d2-a27b-b5b509e5becd",
+        "text": "지번",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "price": {
+        "id": "e5e69717-2047-4b6b-bd52-65114df67dc3",
+        "text": "36,704,000",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              469.0,
+              326.67,
+              516.67,
+              338.33
+            ]
+          }
+        ]
+      },
+      "property_usage": {
+        "id": "53031dff-774b-4565-941a-5e74b07eba69",
+        "text": "임야",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              160.0,
+              326.67,
+              180.33,
+              338.33
+            ]
+          }
+        ]
+      },
+      "area_m2": {
+        "id": "6a8d673b-7d93-47d8-8484-90a99c47bb6b",
+        "text": "992",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              358.67,
+              326.67,
+              373.33,
+              338.33
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "100926b0-a104-415a-92e4-2bb7c472ebbc",
+      "address_base": {
+        "id": "45c78cab-1d91-42c7-96bb-3093d64f10ea",
+        "text": "충청남도 태안군 소원면 소근리",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "address_dong": {
+        "id": "1ee9a2c9-1904-40ae-9a7b-6687cb2926b6",
+        "text": "241-25",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              113.0,
+              297.64,
+              143.33,
+              309.36
+            ]
+          }
+        ]
+      },
+      "address_floor_room": {
+        "id": "8cc0cc24-7bc1-4953-9633-c74de141bd8d",
+        "text": "",
+        "page_bbox": []
+      },
+      "address_type": {
+        "id": "ccdfdc09-b176-46a3-8345-fa889dee5111",
+        "text": "지번",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "price": {
+        "id": "da7319ce-4c45-4765-9c2a-8e92646ea59f",
+        "text": "24,457,000",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              469.0,
+              297.64,
+              516.67,
+              309.36
+            ]
+          }
+        ]
+      },
+      "property_usage": {
+        "id": "a58e6b66-f18d-4ed6-849e-ddbf92d81dc5",
+        "text": "임야",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              159.0,
+              297.64,
+              180.33,
+              309.36
+            ]
+          }
+        ]
+      },
+      "area_m2": {
+        "id": "d6512dcf-2c33-41c5-9c2b-bf022bec85b6",
+        "text": "66",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              358.67,
+              297.64,
+              369.33,
+              309.36
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5cee58be-d017-4ded-b08c-86768024db48",
+      "address_base": {
+        "id": "a81e4fb4-363b-4575-ac86-f9e44beb6c05",
+        "text": "충청남도 태안군 소원면 소근리",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "address_dong": {
+        "id": "8b82a16a-35ba-4507-b369-124cbf6b8aa7",
+        "text": "241-26",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              111.67,
+              270.22,
+              143.33,
+              281.78
+            ]
+          }
+        ]
+      },
+      "address_floor_room": {
+        "id": "d8fdf6e0-b6c7-4956-81b3-1789c6304d8c",
+        "text": "",
+        "page_bbox": []
+      },
+      "address_type": {
+        "id": "f2bbfc09-1532-488b-9000-ff488c02003d",
+        "text": "지번",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "price": {
+        "id": "67a6953c-4cf8-4c1b-bbaa-8b1a826726e4",
+        "text": "35,705,000",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              469.0,
+              270.22,
+              516.67,
+              281.78
+            ]
+          }
+        ]
+      },
+      "property_usage": {
+        "id": "924424db-10b1-4dc6-ad2e-690fffff4d9e",
+        "text": "임야",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              159.0,
+              270.22,
+              180.33,
+              281.78
+            ]
+          }
+        ]
+      },
+      "area_m2": {
+        "id": "cc50c1f0-fa39-4d3b-9723-9ba109d8688f",
+        "text": "65",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              362.67,
+              270.22,
+              373.33,
+              281.78
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "03a1237e-7fbd-4d3a-8b52-32264d196a44",
+      "address_base": {
+        "id": "ae99c352-078f-419f-a4dd-3fefbf0ceb5d",
+        "text": "충청남도 태안군 소원면 소근리",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "address_dong": {
+        "id": "62e70638-9411-4fb1-851c-a6993470ca22",
+        "text": "241-27",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              111.67,
+              241.5,
+              142.0,
+              252.5
+            ]
+          }
+        ]
+      },
+      "address_floor_room": {
+        "id": "0b192007-91e0-4556-982f-fa7eb83a208d",
+        "text": "",
+        "page_bbox": []
+      },
+      "address_type": {
+        "id": "0b6be41e-2b31-4c4e-8b3e-6d4f776c661e",
+        "text": "지번",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              60.33,
+              595.0,
+              98.67,
+              650.0
+            ]
+          }
+        ]
+      },
+      "price": {
+        "id": "b15b482f-966d-4b08-9197-fad909507f4d",
+        "text": "24,457,000",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              467.67,
+              241.5,
+              516.67,
+              252.5
+            ]
+          }
+        ]
+      },
+      "property_usage": {
+        "id": "e4d0397a-4e76-4dce-8894-970022abef17",
+        "text": "임야",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              159.0,
+              241.5,
+              179.0,
+              252.5
+            ]
+          }
+        ]
+      },
+      "area_m2": {
+        "id": "858cbe0d-95af-4d40-a5b7-7532e1c12705",
+        "text": "661",
+        "page_bbox": [
+          {
+            "page_num": 3,
+            "bbox": [
+              357.33,
+              241.5,
+              372.0,
+              252.5
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
